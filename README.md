@@ -10,7 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Code.+Build.+Break.+Learn.+Repeat.;Turning+ideas+into+working+software.;Think.+Code.+Create.;Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="./assets/green-divider.gif" width="100%" alt="Animated Green Divider">
+</p>
 
 ### 🚀 About Me
 
