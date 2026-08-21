@@ -8,11 +8,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **MediTrack**
-- 🌱 I'm currently learning the **MERN Stack**
+- 🔭 I'm currently working on **Medi_Track**
+- 🌱 I'm currently learning the **MERN Stack Development**
 - 👯 I'm looking to collaborate on **open-source & web dev projects**
 - 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, C++**
-- ♟️ Fun fact: **I play chess**
+- ♟️ Fun fact: **I play Chess**
 
 ---
 
