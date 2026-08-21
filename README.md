@@ -10,9 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Code.+Build.+Break.+Learn.+Repeat.;Turning+ideas+into+working+software.;Think.+Code.+Create.;Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="./assets/green-divider.gif" width="100%" alt="Animated Green Divider">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 About Me
 
@@ -22,7 +20,7 @@
 - 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, C++**
 - ♟️ Fun fact: **I play Chess**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Tech Stack
 
@@ -39,7 +37,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌐 Languages Used
 
@@ -59,7 +57,7 @@
   <img src="https://streak-stats.demolab.com?user=simplysaadali&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🤝 Connect with Me
 
