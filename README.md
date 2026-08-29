@@ -29,9 +29,9 @@
 ### Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html5,css,js,c,cpp,express,mongodb,nodejs,react,postman,git,github" alt="Tech Stack"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs" alt="Tech Stack">
+  <br> <br>
+  <img src="https://skillicons.dev/icons?i=postman,c,cpp,git,github,vercel" alt="Tools">
 </p>
 
 <p align="center">
@@ -60,8 +60,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
   <a href="https://my-portfolio-alpha-lemon-96.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=devto" alt="Portfolio"/>
+</a>
 </p>
 
 <p align="center">
@@ -88,10 +88,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
 <p align="center">
