@@ -16,7 +16,7 @@
 
 ### About Me
 
-- 🔭 I'm currently working on **Medi_Track**
+- 🔭 I'm currently working on **Chat App**
 - 🌱 I'm currently learning **MERN Stack Development**
 - 👯 I'm looking to collaborate on **open-source & web dev projects**
 - 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, C++**
