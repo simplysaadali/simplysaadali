@@ -91,5 +91,5 @@
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/simplysaadali">simplysaadali</a> — thanks for stopping by!</i>
+  <i>⭐️ From <a href="https://github.com/simplysaadali">simplysaadali</a> — Follow for More Projects!</i>
 </p>
