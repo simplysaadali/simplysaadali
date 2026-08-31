@@ -20,7 +20,7 @@
 - 🌱 I'm currently learning **MERN Stack Development**
 - 👯 I'm looking to collaborate on **open-source & web dev projects**
 - 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, C++**
-- ♟️ Fun fact: **I play Chess**
+- 🏆 Challenge: **100 Days of JS Projects**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
