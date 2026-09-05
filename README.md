@@ -83,6 +83,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 </p>
 
+
 ### Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -90,4 +91,12 @@
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/simplysaadali">simplysaadali</a> — Follow for More Projects!</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:146B4A,100:63D297&height=150&section=footer&animation=fadeIn"
+    width="100%"
+    alt="Saad Ali Footer"
+  />
 </p>
