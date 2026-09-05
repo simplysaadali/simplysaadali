@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Code.+Build.+Break.+Learn.+Repeat.;Turning+ideas+into+working+software.;Think.+Code.+Create.;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=63D297&center=true&vCenter=true&width=700&lines=Code.+Build.+Break.+Learn.+Repeat.;Turning+ideas+into+working+software.;Think.+Code.+Create.;Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
 </p>
 
 ### About Me
-
 - 🔭 I'm currently working on **Auth (Beginner - Advance)**
 - 🌱 I'm currently learning **MERN Stack Development**
 - 👯 I'm looking to collaborate on **open-source & web dev projects**
@@ -27,7 +26,6 @@
 </p>
 
 ### Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs" alt="Tech Stack">
   <br> <br>
@@ -39,7 +37,6 @@
 </p>
 
 ### Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/simplysaadali">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
@@ -60,8 +57,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
   <a href="https://my-portfolio-alpha-lemon-96.vercel.app/">
-  <img src="https://skillicons.dev/icons?i=devto" alt="Portfolio"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=devto" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
@@ -69,13 +66,11 @@
 </p>
 
 ### Languages Used
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simplysaadali&theme=tokyonight" alt="Languages Used"/>
 </p>
 
 ### GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=simplysaadali&theme=tokyonight" alt="GitHub Streak"/>
 </p>
@@ -83,8 +78,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
