@@ -90,6 +90,11 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 </p>
 
+### Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
 <p align="center">
   <i>⭐️ From <a href="https://github.com/simplysaadali">simplysaadali</a> — Follow for More Projects!</i>
 </p>
