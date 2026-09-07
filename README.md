@@ -15,6 +15,7 @@
 </p>
 
 ### About Me
+
 - 🔭 I'm currently working on **Auth (Beginner - Advance)**
 - 🌱 I'm currently learning **MERN Stack Development**
 - 👯 I'm looking to collaborate on **open-source & web dev projects**
