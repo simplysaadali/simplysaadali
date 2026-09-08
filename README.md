@@ -83,7 +83,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 </p>
 
-### 🚀 Space Shooter — Built From My GitHub Contributions
+### Space Shooter Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/simplysaadali/simplysaadali/main/space-shooter.gif" alt="Space Shooter game generated from Saad Ali's GitHub contributions" width="100%" />
 </p>
