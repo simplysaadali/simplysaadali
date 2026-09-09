@@ -95,10 +95,6 @@
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/simplysaadali">simplysaadali</a> — Follow for More Projects!</i>
-</p>
-
-<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:146B4A,100:63D297&height=150&section=footer&animation=fadeIn"
     width="100%"
