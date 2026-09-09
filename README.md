@@ -32,10 +32,6 @@
   <img src="https://skillicons.dev/icons?i=postman,c,cpp,git,github,vercel" alt="Tools">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 ### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/simplysaadali">
@@ -86,6 +82,10 @@
 ### Space Shooter Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/simplysaadali/simplysaadali/main/space-shooter.gif" alt="Space Shooter game generated from Saad Ali's GitHub contributions" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 
