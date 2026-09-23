@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,react,nodejs" alt="Tech Stack Learned">
   <br> <br>
-  <img src="https://skillicons.dev/icons?i=postman,c,cpp,git,github,vercel" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=postman,c,cpp,git,github,vercel" alt="Development tools and platforms">
 </p>
 
 ### Connect with Me
