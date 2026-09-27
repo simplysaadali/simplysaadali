@@ -15,11 +15,11 @@
 </p>
 
 ### About Me
-- 🔭 I'm currently working on **Auth (Beginner - Advance)**
-- 🌱 I'm currently learning **MERN Stack Development (Full Stack)**
-- 👯 I'm looking to collaborate on **open-source & web dev projects**
-- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, C++**
-- 🏆 Challenge: **100 JS Projects Code**
+-  I'm currently working on **Auth (Beginner - Advance)**
+-  I'm currently learning **MERN Stack Development (Full Stack)**
+-  I'm looking to collaborate on **open-source & web dev projects**
+-  Ask me about **JavaScript, Node.js, Express, MongoDB, C++**
+-  Challenge: **100 JS Projects Code**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
