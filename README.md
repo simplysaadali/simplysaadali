@@ -15,7 +15,7 @@
 </p>
 
 ### About Me
--  I'm currently working on **Auth (Beginner - Advance)**
+-  I'm currently working on **Auth (Beginner - Advanced)**
 -  I'm currently learning **MERN Stack Development (Full Stack)**
 -  I'm looking to collaborate on **open-source & web dev projects**
 -  Ask me about **JavaScript, Node.js, Express, MongoDB, C++**
